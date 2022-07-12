@@ -12,7 +12,7 @@ import {Menu} from "@material-ui/icons";
 // update +
 // delete ++
 
-type TodoListType = {
+export type TodoListType = {
     id: string
     title: string
     filter: FilterValuesType
